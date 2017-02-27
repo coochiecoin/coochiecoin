@@ -1,4 +1,4 @@
-Coochie Coin integration/staging tree
+Coochie Coin integration
 
 Copyright (c) 2009-2014 Bitcoin Developers Copyright (c) 2017-2017 Coochiecoin Developers
 
@@ -9,6 +9,7 @@ Coochiecoin is a lite version of Bitcoin using scrypt as a proof-of-work algorit
 1 minute block targets
 690,000 total coins
 7 (6.9) coins per block
+
 License
 Coochiecoin is released under the terms of the MIT license. See COPYING for more information or see http://opensource.org/licenses/MIT.
 

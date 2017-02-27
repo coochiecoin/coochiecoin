@@ -11,6 +11,7 @@ Coochiecoin is a lite version of Bitcoin using scrypt as a proof-of-work algorit
 7 (6.9) coins per block
 
 License
+
 Coochiecoin is released under the terms of the MIT license. See COPYING for more information or see http://opensource.org/licenses/MIT.
 
 Development process
